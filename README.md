@@ -14,7 +14,8 @@ So, the model can be recognized as JRP7007. If you do a quick search on google, 
 
 This is the PCB:
 
-![IMPORTANT_AREAS](https://github.com/user-attachments/assets/0ba904d8-e097-4aeb-849e-cb11467ac79a)
+![IMPORTANT_AREAS](https://github.com/user-attachments/assets/97ea48aa-c9a7-42a5-99c9-476fe3aceab8)
+
 
 
 # The issue
