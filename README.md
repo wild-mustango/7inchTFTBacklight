@@ -79,7 +79,7 @@ I used MPLABX 5.10 and its XC8 Compiler to create the code, composed of:
 
 I used interna RC oscillator to avoid use of external components. Also used the internal Timer for delay function.
 
-For more detail check SRC folder.
+For more detail check src folder.
 
 # Closing
 
