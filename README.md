@@ -58,7 +58,8 @@ I also did some reverse engineering of the schematic. For better understanding, 
 - Connect Pin 8 (VSS) of PIC1 to any GND point.
 - Secure everthing with kapton tape
 
-![rework](https://github.com/user-attachments/assets/54b1a25f-0edc-4c7e-84d7-da316c1a7289)
+![rework](https://github.com/user-attachments/assets/a441c060-547c-4aea-8c4e-8889b9ae9f32)
+
 
 ![IMG_20250323_142258](https://github.com/user-attachments/assets/5a93541d-3f68-40cb-88d3-bca153ee2fe1)
 
