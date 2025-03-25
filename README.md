@@ -36,13 +36,13 @@ It is as easy as:
 
 I used a PIC12F509 because I had several laying around.
 
-I also did some reverse engineering of the schematic. For better understanding, please check the sch.
+I also did some reverse engineering of the schematic. For better understanding, please check the ![sch](https://github.com/wild-mustango/7inchTFTBacklight/blob/main/sch/).
 
 # Parts List
 
 * 1 x PIC12F509 (no matter package, I used PIC12F509-I/SN which is a SOIC8)
 * 1 x Programer
-* HEX file
+* HEX file ![hex](https://github.com/wild-mustango/7inchTFTBacklight/blob/main/hex/).
 * 1 x Soldering Iron
 * 4 x wires
 * Some solder
@@ -79,7 +79,7 @@ I used MPLABX 5.10 and its XC8 Compiler to create the code, composed of:
 
 I used interna RC oscillator to avoid use of external components. Also used the internal Timer for delay function.
 
-For more detail check src folder.
+For more detail check ![src](https://github.com/wild-mustango/7inchTFTBacklight/blob/main/src/). folder.
 
 # Closing
 
