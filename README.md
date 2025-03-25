@@ -64,7 +64,7 @@ I also did some reverse engineering of the schematic. For better understanding, 
 
 # Rework detail
 
-![usb_uc_detail](https://github.com/user-attachments/assets/5a47fdfd-bae9-440a-a72e-e18d492e178e)
+![usb_uc_detail](https://github.com/user-attachments/assets/a06c3605-d537-4066-8fbd-9e23404f7a86)
 ![backlight_driver_detail](https://github.com/user-attachments/assets/da0e5f0e-8fc2-4ab6-aa78-209c3b80f352)
 
 
