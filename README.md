@@ -59,9 +59,8 @@ I also did some reverse engineering of the schematic. For better understanding, 
 - Secure everthing with kapton tape
 
 ![rework](https://github.com/user-attachments/assets/a441c060-547c-4aea-8c4e-8889b9ae9f32)
+![final_result](https://github.com/user-attachments/assets/9dfa0a2b-9c59-4bee-b2d5-f7849de1d8a8)
 
-
-![IMG_20250323_142258](https://github.com/user-attachments/assets/5a93541d-3f68-40cb-88d3-bca153ee2fe1)
 
 # Rework detail
 
